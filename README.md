@@ -1,8 +1,8 @@
 # php注释自动生成api文档   v1.7
-作者: [Dust](http://dust101.lofter.com)  
+作者: [Kane](https://github.com/xiuyan-server/makeapidoc)  
 ----
 ```  
-composer require mumbaicat/makeapidoc
+composer require xiuyan-server/makeapidoc
 ```  
 
 ## 注释示例:
